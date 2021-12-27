@@ -1,8 +1,8 @@
 ### Scrooge's Bitcoin Bash
 
-<p>Bitcoin Bash is an React-app browsing through [Coin Gecko's API](https://www.coingecko.com/en/api/documentation) and showing some statistics from Bitcoins market history, for example the most profitable days to buy and sell in the given range. If one only had a time machine...</p>
+<p>Bitcoin Bash is an React-app browsing through Coin Gecko's API (https://www.coingecko.com/en/api/documentation) and showing some statistics from Bitcoins market history, for example the most profitable days to buy and sell in the given range. If one only had a time machine...</p>
 
-<p>The app is based on the guidelines given in the pre-assignment for [Vincit's Rising Star -program](https://vincit.fi/risingstar/), so by request, no additional libraries are used. It is composed with React.js and styled with some CSS. </p>
+<p>The app is based on the guidelines given in the pre-assignment for Vincit's Rising Star -program (https://vincit.fi/risingstar/), so by request, no additional libraries are used. It is composed with React.js and styled with some CSS. </p>
 
 #### Instructions of use
 
